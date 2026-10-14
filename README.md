@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WillianCruz-Ligeirinho
+- 👋 Hi, I’m Willian
 - 👀 I’m interested in  programação WEB e Mobile
 - 🌱 I’m currently learning  Ruby on Rails e Kotlin
 - 💞️ I’m looking to collaborate on  projetos que visam a sustentabilidade economica e ambiental de nosso planeta
